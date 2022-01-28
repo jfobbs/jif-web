@@ -22,7 +22,7 @@ are caused by two trailing spaces at the end of a line.
 - Library Carpentry
 
 <h2> JOSTAR! </h2>
-1. Check out my work at [Shattered Prisms](shatteredprisms.com)
+1. Check out my work at [Shattered Prisms](https://shatteredprisms.com/)
 2. ~~nojojo~~
 
 <h3> jostar222 </h3>
