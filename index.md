@@ -1,6 +1,7 @@
 ---
 title: "JOSTAR"
 author: "Jordan"
+layout: default
 ---
 
 {% include navigation.html %}
