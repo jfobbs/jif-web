@@ -1,3 +1,11 @@
+---
+title: "JOSTAR"
+author: "Jordan"
+---
+
+{% include navigation.html %}
+
+
 ## Description
 just some thoughts from a real 1!
 
